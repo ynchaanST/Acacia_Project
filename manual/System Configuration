@@ -7,6 +7,14 @@ To manage risks and ensure convenience, we utilize a device that automatically s
 In coclusion, with proper design and installation of the system, we can easily control the entire system using the device.
 
 ## Console (Mixer)
+  The main role of the mixer is,
+1) boost the mic_level_signal to line_level_signal
+2) make the equalization of the signal
+3) make the sound
+  There are generally two kinds, the digital ones and the analog ones.
+The main difference is that the digitals are more accurate with diverse functions, but much complicated to use.
+When you take a first look at the device, you can see faders, knobs, and touch screen ,only for the digital ones.
+As a operator or sound engineer, we usaully handle this console by adjusting some equalizers or compressors.
 
 ## Amplifier
 

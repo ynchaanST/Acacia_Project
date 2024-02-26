@@ -17,6 +17,10 @@ When you take a first look at the device, you can see faders, knobs, and touch s
 As a operator or sound engineer, we usaully handle this console by adjusting some equalizers or compressors.
 
 ## Amplifier
+  The amplifier, amp, boosts the line_level_signal to speaker_level_signal
+This device is usually installed between the console and speakers,
+but there are some speakers that have built-in amps,
+so in that case, external amps are not neccesaryly needed.
 
 ## Speaker
 
